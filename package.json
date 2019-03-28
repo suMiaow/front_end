@@ -1,0 +1,22 @@
+{
+  "name": "front_end",
+  "version": "1.0.0",
+  "description": "Front end tec learning",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suMiaow/front_end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suMiaow/front_end/issues"
+  },
+  "homepage": "https://github.com/suMiaow/front_end#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
