@@ -216,3 +216,4 @@ fabric.properties
 
 # Custom
 .idea/
+dist/main.js
