@@ -12,12 +12,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/suMiaow/front_end/issues"
   },
   "homepage": "https://github.com/suMiaow/front_end#readme",
   "devDependencies": {
+    "file-loader": "^3.0.1",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0"
   }
