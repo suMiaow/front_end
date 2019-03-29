@@ -4,7 +4,7 @@
   "description": "Front end tec learning",
   "private": true,
   "scripts": {
-    "bundle": "webpack"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
